@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kotlin1Hw3</string>
+    <string name="image">image</string>
+    <string name="send">send</string>
+    <string name="selected">selected</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery_detail">GalleryDetail</string>
+
+    <!--Image URL's list -->
+    <array name="image_urls">
+        <item>https://media.wired.com/photos/593261cab8eb31692072f129/master/pass/85120553.jpg</item>
+        <item>https://www.lakelandflowers.ca/wp-content/uploads/2021/03/pexels-tabitha-mort-607013-2048x1365.jpg</item>
+        <item>https://www.enjpg.com/img/2020/cool.jpeg</item>
+        <item>https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2017/09/c549eConcept20.jpg</item>
+        <item>https://i.pinimg.com/236x/c1/96/0d/c1960dfa820e378c93a82e60baa74689.jpg</item>
+    </array>
+</resources>
